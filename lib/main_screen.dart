@@ -30,7 +30,7 @@ class TourismPlaceList extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return ListView.builder(
-          itemCount: tourismPlaceList.length, // tambahkan ini
+          itemCount: tourismPlaceList.length, 
         itemBuilder: (context, index) {
                     final TourismPlace place = tourismPlaceList[index];
 
