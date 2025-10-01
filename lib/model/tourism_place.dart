@@ -39,7 +39,7 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Observatorium Bosscha',
-    location: 'Lembang',
+    location: 'Purwakarta',
     description:
         'Memiliki beberapa teleskop, antara lain, Refraktor Ganda Zeiss, Schmidt Bimasakti, Refraktor Bamberg, Cassegrain GOTO, dan Teleskop Surya. Refraktor Ganda Zeiss adalah jenis teleskop terbesar untuk meneropong bintang. Benda ini diletakkan pada atap kubah sehingga saat teropong digunakan, atap tersebut harus dibuka. Observatorium Bosscha boleh dikunjungi oleh siapa pun, tanpa tiket. Namun, bagi yang ingin menggunakan teleskop Zeiss, wajib mendaftarkan diri. Untuk instansi atau lembaga pendidikan, diberikan jadwal hari Selasa sampai Jumat. Sementara itu, kunjungan individu dibuka setiap hari Sabtu.',
     openDays: 'Open Tuesday - Saturday',
@@ -84,7 +84,7 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Taman Film Pasopati',
-    location: 'Kota Bandung',
+    location: 'Kota Bogor',
     description:
         'Menjadi salah satu tempat wisata di Bandung yang favorit, tentu Taman Film ini memiliki fasilitas cukup memadai. Pemberian fasilitas ini memiliki harapan para pengunjung akan merasa nyaman dan tak segan2 untuk kembali berkunjung terus menerus kesini. Beberapa fasilitas taman yang bisa kamu nikmati diantaranya seperti layar videotron besar berukuran 4×8 untuk memutar berbagai macam pilihan film seperti Film Indonesia, Bollywood, Korea, ataupun Indie Bandung.',
     openDays: 'Open Everyday',
@@ -99,7 +99,7 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Museum Geologi',
-    location: 'Kota Bandung',
+    location: 'Kota Surabaya',
     description:
         'Museum Geologi didirikan pada tanggal 16 Mei 1929. Museum ini telah direnovasi dengan dana bantuan dari JICA (Japan International Cooperation Agency). Setelah mengalami renovasi, Museum Geologi dibuka kembali dan diresmikan oleh Wakil Presiden RI, Megawati Soekarnoputri pada tanggal 23 Agustus 2000. Sebagai salah satu monumen bersejarah, museum berada di bawah perlindungan pemerintah dan merupakan peninggalan nasional. Dalam Museum ini, tersimpan dan dikelola materi-materi geologi yang berlimpah, seperti fosil, batuan, mineral. Kesemuanya itu dikumpulkan selama kerja lapangan di Indonesia sejak 1850.',
     openDays: 'Open Saturday - Thursday',
@@ -114,7 +114,7 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Floating Market',
-    location: 'Lembang',
+    location: 'Cileungsi',
     description:
         'Tempat wisata ini sepertinya memang ditujukan untuk wisata keluarga di Bandung. Di sini kita bisa menikmati suasana kawasan yang tertata rapi dan alami. Pada awalnya, floating market Lembang tidak begitu luas. Tapi sekarang sudah ekspansi dan memiliki banyak objek menarik baru. Nama floating market ini sepertinya merujuk pada stand tempat jualan makanan yang berada dalam perahu.',
     openDays: 'Open Everyday',
@@ -144,7 +144,7 @@ var tourismPlaceList = [
   ),
   TourismPlace(
     name: 'Ranca Upas',
-    location: 'Ciwidey',
+    location: 'Cibodas',
     description:
         'Ranca Upas Ciwidey adalah kawasan bumi perkemahan di bawah pengelolaan perhutani. Tempat ini berada di kawasan wisata Bandung Selatan, satu lokasi dengan kawah putih, kolam Cimanggu dan situ Patenggang. Banyak hal yang bisa dilakukan di kawasan wisata ini, seperti berkemah, berinteraksi dengan rusa, sampai bermain di water park dan mandi air panas.',
     openDays: 'Open Everyday',
